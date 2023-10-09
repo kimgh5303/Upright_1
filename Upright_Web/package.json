@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.2",
+    "express": "^4.17.1",
+    "location": "^0.0.1",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "request": "^2.88.2",
+    "res": "^0.4.0"
+  }
+}
